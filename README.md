@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tikesh2000t@gmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences https://tikeshturkar75.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
